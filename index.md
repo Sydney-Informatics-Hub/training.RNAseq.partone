@@ -16,6 +16,7 @@ We recommend attending both courses if you would like and end to end overview of
 
 
 > ## Prerequisites
+> * * Introductory slides of the [RNA sequencing training series](https://sydney-informatics-hub.github.io/training.RNAseq.series/)
 > * Familiarity with [Unix/Linux command line](https://datacarpentry.org/shell-genomics/)
 > * **Own laptop and access to Pawsey Nimbus is required**
 {: .prereq}
